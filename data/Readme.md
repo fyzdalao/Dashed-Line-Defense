@@ -1,0 +1,1 @@
+Please place ImageNet validation images in the data/ILSVRC2012_img_val directory.
