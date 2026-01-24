@@ -11,7 +11,7 @@ If you use this code or find our research helpful, please cite our paper.
 @inproceedings{fu2026dashed,
   title={Dashed Line Defense: Plug-And-Play Defense Against Adaptive Score-Based Query Attacks},
   author={Fu, Yanzhang and Guo, Zizheng and Luo, Jizhou},
-  booktitle={Proceedings of the 29th International Conference on Artificial Intelligence and Statistics (AISTATS)},
+  booktitle={29th International Conference on Artificial Intelligence and Statistics (AISTATS)},
   year={2026},
   note={To appear}
 }
@@ -60,6 +60,7 @@ The code in this repository is released under the BSD 3-Clause License.
 Some components are re-implemented based on the AAA method,
 following the original authors' implementation logic, and are included
 for research and reproducibility purposes only.
+
 
 
 
