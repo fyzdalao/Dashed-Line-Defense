@@ -1,6 +1,7 @@
 # Dashed Line Defense (DLD) - Implementation
 
 This is the implementation of the paper "Dashed Line Defense: Plug-And-Play Defense Against Adaptive Score-Based Query Attacks" (AISTATS 2026).
+https://arxiv.org/abs/2602.08679
 
 ### Citation
 
@@ -60,6 +61,7 @@ The code in this repository is released under the BSD 3-Clause License.
 Some components are re-implemented based on the AAA method,
 following the original authors' implementation logic, and are included
 for research and reproducibility purposes only.
+
 
 
 
