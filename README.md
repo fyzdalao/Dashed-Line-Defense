@@ -6,15 +6,14 @@ https://arxiv.org/abs/2602.08679
 ### Citation
 
 If you use this code or find our research helpful, please cite our paper.
-> **Note:** The paper has been accepted by AISTATS 2026. This is a preliminary citation format. We will update the full BibTeX once the paper is officially available.
 
 ```bibtex
-@inproceedings{fu2026dashed,
+@inproceedings{
+  fu2026dashed,
   title={Dashed Line Defense: Plug-And-Play Defense Against Adaptive Score-Based Query Attacks},
-  author={Fu, Yanzhang and Guo, Zizheng and Luo, Jizhou},
-  booktitle={29th International Conference on Artificial Intelligence and Statistics (AISTATS)},
+  author={Yanzhang Fu and Jizhou Luo and Zizheng Guo},
+  booktitle={The 29th International Conference on Artificial Intelligence and Statistics},
   year={2026},
-  note={To appear}
 }
 ```
 
